@@ -1,8 +1,8 @@
-# Plot Café ☕
+# Café Plot
 
 Landing page de uma cafeteria, feita com HTML e CSS.
 
-🔗 **Ver online:** https://dev-erick-rodrigo.github.io/plot-cafe/
+**Ver online:** https://dev-erick-rodrigo.github.io/cafe-plot/
 
 ## O que tem na página
 
@@ -28,7 +28,7 @@ Landing page de uma cafeteria, feita com HTML e CSS.
 ## Estrutura
 
 ```
-plot-cafe/
+cafe-plot/
 ├── index.html
 ├── css/
 │   └── style.css
